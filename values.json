@@ -1,0 +1,25 @@
+{
+	"strong_recommendation": [
+		"Recommendations for you in Cell Phones & Accessories",
+		"Recommended from Our Brands in Fashion",
+		"Recommendations for you in Beauty & Personal Care",
+    "Recommended for you in Kindle Magazines",
+    "Recommendations for You",
+    "Recommended for you from Our Brands"
+	],
+	"mild_recommendation": [
+		"Popular in brands you may like",
+		"More top picks for you",
+    "Inspired by your recent shopping trends",
+		"Our Brands inspired by your views in Fashion"
+	],
+	"promotional": [
+		"Top Black Friday Deals",
+		"Trending Black Friday deals"
+	],
+	"not_recommendations": [
+    "Best sellers",
+    "Prime member deals",
+    "Deals on Amazon Devices",
+    "Top deals in electronics"]
+}
